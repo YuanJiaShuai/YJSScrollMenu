@@ -1,0 +1,6 @@
+framework module YJSScrollMenu {
+  umbrella header "YJSScrollMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
