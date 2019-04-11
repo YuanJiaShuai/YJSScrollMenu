@@ -350,11 +350,11 @@
     [self.itemImg mas_updateConstraints:^(MASConstraintMaker *make) {
         make.size.equalTo(@(self.itemImgSize));
         make.centerX.equalTo(self.contentView);
-        make.centerY.equalTo(self.contentView).offset(-2*self.titleImgSpace);
+        make.top.equalTo(@(4));
     }];
     
     [self.itemTitle mas_updateConstraints:^(MASConstraintMaker *make) {
-        make.left.right.bottom.mas_equalTo(self.contentView);
+        make.left.right.mas_equalTo(self.contentView);
         make.top.equalTo(self.itemImg.mas_bottom).offset(self.titleImgSpace);
     }];
 }

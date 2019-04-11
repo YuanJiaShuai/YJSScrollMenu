@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YJSScrollMenu'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '类似美团淘宝的icon menu菜单'
 
 # This description is used to generate tags and improve search results.
