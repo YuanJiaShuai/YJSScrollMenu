@@ -331,7 +331,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-YJSScrollMenu_Example/Pods-YJSScrollMenu_Example-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-YJSScrollMenu_Example/Pods-YJSScrollMenu_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework",
 				"${BUILT_PRODUCTS_DIR}/YJSScrollMenu/YJSScrollMenu.framework",
 				"${BUILT_PRODUCTS_DIR}/YYCache/YYCache.framework",
@@ -348,7 +348,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YJSScrollMenu_Example/Pods-YJSScrollMenu_Example-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-YJSScrollMenu_Example/Pods-YJSScrollMenu_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		6B2E3DECD7F1F35AE751D758 /* [CP] Check Pods Manifest.lock */ = {

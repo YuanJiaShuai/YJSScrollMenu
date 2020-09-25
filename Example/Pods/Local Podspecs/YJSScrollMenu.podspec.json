@@ -1,6 +1,6 @@
 {
   "name": "YJSScrollMenu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "类似美团淘宝的icon menu菜单",
   "description": "TODO: 类似美团淘宝的icon menu菜单",
   "homepage": "https://github.com/YuanJiaShuai/YJSScrollMenu",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/YuanJiaShuai/YJSScrollMenu.git",
-    "tag": "0.0.1"
+    "tag": "0.0.2"
   },
   "platforms": {
     "ios": "8.0"
@@ -23,10 +23,10 @@
   "frameworks": "UIKit",
   "dependencies": {
     "YYWebImage": [
-
+      "~> 1.0.5"
     ],
     "Masonry": [
-
+      "~> 1.1.0"
     ]
   }
 }

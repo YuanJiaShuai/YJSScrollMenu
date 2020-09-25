@@ -111,8 +111,7 @@
                         IMG(@"icon_hairdressing"),
                         IMG(@"icon_mom"),
                         IMG(@"icon_study"),
-                        IMG(@"icon_travel"),
-                        @"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1498711713465&di=d986d7003deaae41342dd9885c117e38&imgtype=0&src=http%3A%2F%2Fs9.rr.itc.cn%2Fr%2FwapChange%2F20168_3_0%2Fa86hlk59412347762310.GIF"];
+                        IMG(@"icon_travel"), @"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1498711713465&di=d986d7003deaae41342dd9885c117e38&imgtype=0&src=http%3A%2F%2Fs9.rr.itc.cn%2Fr%2FwapChange%2F20168_3_0%2Fa86hlk59412347762310.GIF"];
     NSArray *titles = @[@"美食",
                         @"休闲娱乐",
                         @"电影/演出",

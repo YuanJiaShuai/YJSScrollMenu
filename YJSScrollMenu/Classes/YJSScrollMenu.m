@@ -296,7 +296,7 @@
 /**
  单元格图片
  */
-@property (strong, nonatomic) YYAnimatedImageView *itemImg;
+@property (strong, nonatomic) UIImageView *itemImg;
 
 /**
  单元格文本
@@ -322,7 +322,7 @@
         self.contentView.backgroundColor = [UIColor whiteColor];
         
         self.itemImg = ({
-            YYAnimatedImageView *imageView = [[YYAnimatedImageView alloc] init];
+            UIImageView *imageView = [[UIImageView alloc] init];
             imageView.contentMode = UIViewContentModeScaleAspectFill;
             imageView.clipsToBounds = YES;
             imageView.layer.masksToBounds = YES;
