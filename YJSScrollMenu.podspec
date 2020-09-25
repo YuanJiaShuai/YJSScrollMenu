@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YJSScrollMenu'
-  s.version          = '0.0.3'
-  s.summary          = '类似美团淘宝的icon menu菜单'
+  s.version          = '0.0.4'
+  s.summary          = 'icon menu'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: 类似美团淘宝的icon menu菜单
+TODO: icon menu
                        DESC
 
   s.homepage         = 'https://github.com/YuanJiaShuai/YJSScrollMenu'
